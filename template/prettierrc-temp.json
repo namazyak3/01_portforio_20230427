@@ -1,0 +1,29 @@
+{
+	// 複数要素のコンマ
+	"trailingComma": "es5",
+	
+	// タブインデントの大きさ
+	"tabWidth": 2,
+
+	// 行末のセミコロン
+	"semi": false,
+
+	// シングルクオーテーション
+	"singleQuote": true,
+
+	// 括弧と要素の間のスペース
+	"bracketSpacing": true,
+
+	// アロー関数の引数を括弧で囲む
+	"arrowParens": "always",
+
+	//* Jsx要素
+	// シングルクオーテーション
+	"jsxSingleQuote": true,
+
+	// タグの閉じ括弧を属性と同一行に含める
+	"bracketSameLine": true,
+
+	// 属性の折り返し
+	"singleAttributePerLine": false
+}

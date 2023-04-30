@@ -1,5 +1,8 @@
+@import "../../../styles/value";
+
 .header {
     width: 100vw;
     height: 50px;
-    border-bottom: 1px solid #a0a0a0;
+    border-bottom: 1px solid $main;
+    background: $sub;
 }

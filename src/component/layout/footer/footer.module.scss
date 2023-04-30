@@ -1,0 +1,8 @@
+@import "../../../styles/value";
+
+.footer {
+  height: $footer_h;
+  width: 100vw;
+  border-top: 1px solid $main;
+  background: $sub;
+}

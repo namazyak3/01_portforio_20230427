@@ -1,0 +1,6 @@
+@import "./value";
+
+.content {
+  height: calc(100vh - $header_h - $footer_h);
+  width: 100vw;
+}
